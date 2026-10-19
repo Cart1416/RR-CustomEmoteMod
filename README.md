@@ -1,6 +1,8 @@
 # Rec Room CustomEmote Mod
 
-All made by AI slop may be a bit buggy
+All made by AI slop may be a bit buggy  
+Tested on EpicQuest, might work on other servers  
+Please don't do anything sussy to get banned
 
 ## How to build
 
